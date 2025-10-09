@@ -1,0 +1,64 @@
+STEP 2: ANALYZE AUDIT RESULTS 
+
+* What were the audit scope and goals?   
+  * Review the assets of the company Botium Toys and assess the controls and compliance practices they have in place of the company. 
+
+
+* What were the *critical findings* of the audit that need to be addressed immediately (i.e., What controls and/or policies need to be implemented immediately)?  
+    
+  * During the risk assessment, it was identified that Botium Toys has an inadequate management of assets. No proper controls in place and they’re not fully compliant with U.S. and International regulations and standards.  
+      
+  * Compliance checklist   
+    * **GDPR** \- Must comply with standards as they do handle card holder data and customer PII/SPII  
+      * Ex. Employees have access to internally stored data  
+          
+    * **PCI DSS** \- Credit Card information is stored data with Botium Toys. Storing, Accepting, Processing, and Transmitting Credit Card Information. They must do so in a safe and secure environment when fulfilling a transaction during point of sale and secure online payments through e-commerce.  
+      * Lack of encryption is not currently used to maintain confidentiality of customer data on the company’s internal database.
+
+    * **SOC 1 and SOC 2** \- The company must have a strong security posture amongst employees when it comes to user accessibility. There should be much stronger policies that need to be established to verify users who they claim to be and establish the appropriate access levels that specific users are granted.  
+      * Currently, all Botium Toys employees have access to internally stored data and may be able to access cardholder data and customers’ PII/SPII.  
+      * Access controls pertaining to least privilege and separation of duties have not been implemented.
+
+* What were the *findings* (i.e., What controls and/or policies that need to be addressed in the future)?
+
+| Controls Assessment Checklist |  |
+| :---- | :---- |
+| Yes | Firewall Antivirus Software Locks (offices, storefront, warehouse) Closed-circuit television (CCTV) surveillance Fire detection/prevention (fire alarm, sprinkler system, etc.) |
+| No | Least Privilege Disaster recovery plans Password Policies Separation of Duties Intrusion Detection System Backups Manual monitoring, maintenance, and intervention for legacy systems Encryption Password management system  |
+
+Payment Card Industry Data Security Standard (PCI DSS)
+
+| Yes |     No | Best practice |
+| ----- | ----- | :---- |
+|  |  | Only authorized users have access to customers’ credit card information.  |
+|  |  | Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment. |
+|  |  | Implement data encryption procedures to better secure credit card transaction touchpoints and data.  |
+|  |  | Adopt secure password management policies. |
+
+General Data Protection Regulation (GDPR)
+
+| Yes |     No | Best practice |
+| ----- | ----- | :---- |
+|  |  | E.U. customers’ data is kept private/secured. |
+|  |  | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. |
+|  |  | Ensure data is properly classified and inventoried. |
+|  |  | Enforce privacy policies, procedures, and processes to properly document and maintain data. |
+
+System and Organizations Controls (SOC type 1, SOC type 2\) 
+
+| Yes |     No | Best practice |
+| ----- | ----- | :---- |
+|  |  | User access policies are established. |
+|  |  | Sensitive data (PII/SPII) is confidential/private. |
+|  |  | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |
+|  |  | Data is available to individuals authorized to access it. |
+
+* How can you summarize your recommendations clearly and concisely to stakeholders?  
+  * Strengthen security posture and implement stronger data protection to adhere to compliance  
+  * Reduce risk of data breaches and regulatory fines  
+  * Improve stakeholder and customer trust  
+  * Build a sustainable, auditable compliance framework
+
+
+STEP 3: Communicate Results and Recommendations 
+
