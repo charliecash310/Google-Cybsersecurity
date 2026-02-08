@@ -10,14 +10,6 @@ It serves as a **reference, knowledge base, and portfolio foundation** for entry
 
 ---
 
-## ✅ Program Status
-
-**Status:** Completed  
-**Scope:** 8 courses · ~127 hours total  
-**Focus:** Foundational cybersecurity theory + applied technical skills
-
----
-
 ## 📚 Curriculum Overview
 
 ### 1. Foundations of Cybersecurity
