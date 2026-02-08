@@ -1,4 +1,4 @@
-# Google-Cybsersecurity
+# Google-Cybersecurity
 Coursework provided through the Coursera platform
 
 [Portfolio Website](https://sites.google.com/view/rapidportfolio/home)
