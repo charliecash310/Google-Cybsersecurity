@@ -75,7 +75,7 @@ It serves as a **reference, knowledge base, and portfolio foundation** for entry
 - Entry-level role readiness (SOC, IT, GRC)
 
 ---
-
+```
 ## 🗂️ Repository Structure
 foundations-of-cybersecurity/
 ├── 01-foundations/
@@ -87,3 +87,4 @@ foundations-of-cybersecurity/
 ├── 07-python-automation/
 ├── 08-career-preparation/
 └── README.md
+```
