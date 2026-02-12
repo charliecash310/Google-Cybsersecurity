@@ -76,7 +76,7 @@ It serves as a **reference, knowledge base, and portfolio foundation** for entry
 
 ---
 ```
-## 🗂️ Repository Structure
+🗂️ Repository Structure
 foundations-of-cybersecurity/
 ├── 01-foundations/
 ├── 02-risk-management/
@@ -87,4 +87,3 @@ foundations-of-cybersecurity/
 ├── 07-python-automation/
 ├── 08-career-preparation/
 └── README.md
-```
